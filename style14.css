@@ -144,11 +144,11 @@ form input.equal:hover{
     justify-content: center;
 }
 #minimize:hover{
-    transform: scale(1.2);
+    -o-transform: scale(1.2);
     -webkit-transform: scale(1.2);
     -moz-transform: scale(1.2);
     -ms-transform: scale(1.2);
-    -o-transform: scale(1.2);
+    transform: scale(1.2);
 }
 #max{
     width: 18px;
