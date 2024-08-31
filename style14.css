@@ -104,11 +104,11 @@ form input.equal:hover{
     width: 18px;
     height: 18px;
     background-color: #ff0000;
-    border-radius: 50px;
+    -o-border-radius: 50px;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
     -ms-border-radius: 50px;
-    -o-border-radius: 50px;
+    border-radius: 50px;
     position: relative;
     bottom: 127px;
     left: -4px;
